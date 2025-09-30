@@ -1,0 +1,38 @@
+gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+pip-selfcheck.json
+
+# IDE specific files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Local configuration (if you were to use a local_config.py for example)
+# local_config.py
+
+# Coverage reports
+.coverage
+htmlcov/
