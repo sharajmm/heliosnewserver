@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # --- HARDCODED API KEYS FOR HACKATHON DEMO ---
 # This is the correct, strategic move for the hackathon.
-GOOGLE_MAPS_API_KEY = "AIzaSyDut42n1-31SoKCfwvHhr_994uJjVnE3RA"
+GOOGLE_MAPS_API_KEY = "AIzaSyBLRYiLOgANIIXdHb70lspfXN4p2skEIHI"
 ORS_API_KEY = "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImJmMjY2YTdhODg3YzQxYTBhNTA5NDVjODc0ODAyZDM3IiwiaCI6Im11cm11cjY0In0=" # Not currently used, but here for reference
 
 # --- Helper function for AI risk scoring ---
